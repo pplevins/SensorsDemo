@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorsDemo", "SensorsDemo\SensorsDemo.csproj", "{E76B868C-2384-48E7-AEB8-E7C372ED16FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E76B868C-2384-48E7-AEB8-E7C372ED16FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76B868C-2384-48E7-AEB8-E7C372ED16FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76B868C-2384-48E7-AEB8-E7C372ED16FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76B868C-2384-48E7-AEB8-E7C372ED16FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1820864A-CA4E-4038-8D1D-431BF6CF4E98}
+	EndGlobalSection
+EndGlobal
