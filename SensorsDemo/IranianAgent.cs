@@ -1,7 +1,7 @@
 ﻿namespace SensorsDemo;
 
 /// <summary>
-/// Abstract Iranian agent.  Holds the secret weakness list and exposes
+/// Abstract Iranian agent. Holds the secret weakness list and exposes
 /// primitives that game logic calls each turn.
 /// </summary>
 internal abstract class IranianAgent

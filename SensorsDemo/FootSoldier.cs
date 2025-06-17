@@ -9,7 +9,7 @@ internal sealed class FootSoldier : IranianAgent
 
     public FootSoldier() : base(GenerateWeakness()) { }
 
-    public override string Rank => "Foot Soldier";
+    public override string Rank => "Foot Soldier"; // this.GetType().Name;
 
     private static SensorType[] GenerateWeakness()
     {
