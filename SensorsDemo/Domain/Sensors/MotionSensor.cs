@@ -1,4 +1,6 @@
-﻿namespace SensorsDemo.Domain;
+﻿using SensorsDemo.Domain.Interfaces;
+
+namespace SensorsDemo.Domain.Sensors;
 
 /// <summary>
 /// Class represents a motion sensor, which breaks after 3 activations.

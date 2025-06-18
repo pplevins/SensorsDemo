@@ -1,4 +1,6 @@
-﻿namespace SensorsDemo.Domain;
+﻿using SensorsDemo.Domain.Interfaces;
+
+namespace SensorsDemo.Domain.Sensors;
 
 /// <summary>
 /// Class to represent magnetic sensor,

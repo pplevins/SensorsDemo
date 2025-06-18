@@ -1,4 +1,6 @@
-﻿namespace SensorsDemo.Domain;
+﻿using SensorsDemo.Domain.Interfaces;
+
+namespace SensorsDemo.Domain.Sensors;
 
 /// <summary>
 /// Class represents an audio sensor, which has the ability to reveal one correct sensor of the agent.

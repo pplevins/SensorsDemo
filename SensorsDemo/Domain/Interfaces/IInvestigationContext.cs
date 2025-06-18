@@ -1,7 +1,7 @@
-﻿namespace SensorsDemo.Domain;
+﻿namespace SensorsDemo.Domain.Interfaces;
 
 /// <summary>
-/// Context exposed to sensors during <see cref="ISensor.Activate(SensorsDemo.Domain.IInvestigationContext)"/> [Domain boundary].
+/// Context exposed to sensors during <see cref="ISensor.Activate(IInvestigationContext)"/> [Domain boundary].
 /// </summary>
 internal interface IInvestigationContext
 {

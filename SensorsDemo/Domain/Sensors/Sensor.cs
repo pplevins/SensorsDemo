@@ -1,4 +1,6 @@
-﻿namespace SensorsDemo.Domain;
+﻿using SensorsDemo.Domain.Interfaces;
+
+namespace SensorsDemo.Domain.Sensors;
 
 /// <summary>
 /// A base class to represnt sensor instance

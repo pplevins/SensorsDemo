@@ -1,4 +1,4 @@
-﻿namespace SensorsDemo.Domain;
+﻿namespace SensorsDemo.Domain.Interfaces;
 
 /// <summary>
 /// Enum that represents types of sensors in the game
