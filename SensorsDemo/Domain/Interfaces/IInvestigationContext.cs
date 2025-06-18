@@ -1,4 +1,6 @@
-﻿namespace SensorsDemo.Domain.Interfaces;
+﻿using SensorsDemo.Domain.Agents;
+
+namespace SensorsDemo.Domain.Interfaces;
 
 /// <summary>
 /// Context exposed to sensors during <see cref="ISensor.Activate(IInvestigationContext)"/> [Domain boundary].
